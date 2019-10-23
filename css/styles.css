@@ -18,7 +18,9 @@ section {
     padding: 60px 0;
     position: relative
 }
-
+.intro-section{
+    background-size: cover !important;
+}
 .text-bold {
     font-weight: 700
 }
@@ -72,9 +74,8 @@ nav.navbar a.nav-link {
 }
 
 .bg-gradient {
-    background: -webkit-gradient(linear, left top, left bottom, from(#2c2534), to(#0f0a3c))!important;
-    background: linear-gradient(to bottom, #2a6ead, #3046c2)!important;
-    color: #fff
+    background: deepskyblue;
+    color: whitesmoke;
 }
 
 .bg-gradient * {
@@ -1951,7 +1952,7 @@ code {
     text-decoration: none;
     width: 30vmax;
     z-index: 999;
-    background: #000;
+    background: fixed !important;
     background: -webkit-linear-gradient(to bottom, #3a3de9, #000);
     background: -o-linear-gradient(to bottom, #3a3de9, #000);
     background: -moz-linear-gradient(to bottom, #3a3de9, #000);
