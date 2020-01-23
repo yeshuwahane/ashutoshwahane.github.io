@@ -40,5 +40,12 @@
     "description": "I love bollywood",
     "is_active": true,
     "created_at": "2020-01-22T06:03:56.607666Z"
+  },
+  {
+    "id": 7,
+    "name": "light",
+    "description": "you know the god of death ?",
+    "is_active": true,
+    "created_at": "2020-01-22T06:03:56.607666Z"
   }
 ]
