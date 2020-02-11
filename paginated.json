@@ -1,0 +1,36 @@
+{
+    "next": null,
+    "previous": null,
+    "page_size": 10,
+    "count": 4,
+    "results": [
+        {
+            "id": 4,
+            "name": "Hotel Management",
+            "description": "All hotel facilites are here",
+            "is_active": true,
+            "created_at": "2020-01-18T13:09:58.969353Z"
+        },
+        {
+            "id": 2,
+            "name": "Management Studies",
+            "description": "Management is here only!",
+            "is_active": true,
+            "created_at": "2019-12-22T18:41:34.508019Z"
+        },
+        {
+            "id": 1,
+            "name": "Computer Science",
+            "description": "Educate student in field of computer",
+            "is_active": true,
+            "created_at": "2019-12-22T18:41:34.508019Z"
+        },
+        {
+            "id": 3,
+            "name": "Fine Arts",
+            "description": "Arts is here now",
+            "is_active": true,
+            "created_at": "2019-12-22T18:41:34.508019Z"
+        }
+    ]
+}
