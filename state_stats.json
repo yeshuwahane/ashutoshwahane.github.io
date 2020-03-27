@@ -1,0 +1,19 @@
+{
+  "countries_stat": [
+    {
+      "state_name": "Maharashtra",
+      "total_case": "130",
+      "total_deaths": "4",
+      "total_recovered": "15",
+      "helpline_number": "1234567890"
+
+    },
+    {
+      "state_name": "Kerela",
+      "total_case": "137",
+      "total_deaths": "0",
+      "total_recovered": "11",
+      "helpline_number": "1234567890"
+    }
+  ]
+}
