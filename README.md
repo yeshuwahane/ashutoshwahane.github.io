@@ -1,7 +1,7 @@
 ## **Ashutosh Wahane Portfolio Website**
 ---
 
-**Website Link**: (https://ashutoshwahane.github.io/)
+**Website Link**: (https://ashutoshwahane.me/)
 
 ---
 # Portfolio Website
