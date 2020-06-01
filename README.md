@@ -1,17 +1,5 @@
-## **Ashutosh Wahane Portfolio Website**
----
+## codebytere's Personal Website
 
-**Website Link**: (https://ashutoshwahane.me/)
+An interactive `cli `that allows you to learn about me by navigating around a terminal emulator.
 
----
-# Portfolio Website
-
-My portfolio page, where I will be putting my projects, resume, as well as other related social links! 
-
-## Built With
-
-* HTML
-* CSS
-* Javascript
-* Bootstrap
-
+Built with JavaScript & less.
