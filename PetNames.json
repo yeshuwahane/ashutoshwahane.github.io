@@ -1,14 +1,20 @@
-[
-  {
-    "name": "Dog"
-  },
-  {
-    "name": "Cat"
-  },
-  {
-    "name": "Cow"
-  },
-  {
-    "name": "Owl"
-  }
-]
+{
+    "results": [
+        {
+            "id": 1,
+            "name": "Dog"
+        },
+        {
+            "id": 2,
+            "name": "Dog"
+        },
+        {
+            "id": 3,
+            "name": "Dog"
+        },
+        {
+            "id": 4,
+            "name": "Dog"
+        }
+      ]
+}
